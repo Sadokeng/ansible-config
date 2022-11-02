@@ -6,6 +6,10 @@ Configure Jenkins to push Ansible code
 check if it's ok now
 
 # double check
+<<<<<<< HEAD
 still waiting for the job
 =======
 >>>>>>> 3b2c537 (some update to files)
+=======
+still waiting for the job
+>>>>>>> main
