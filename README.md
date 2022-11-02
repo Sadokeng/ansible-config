@@ -1,2 +1,2 @@
 # ansible-config-mgt
-COnfigure Jenkins to push Ansible code
+Configure Jenkins to push Ansible code
