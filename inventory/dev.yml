@@ -1,5 +1,4 @@
 [nfs]
-<<<<<<< HEAD
 172.31.34.139 ansible_ssh_user='ec2-user'
 
 [webservers]
@@ -11,17 +10,5 @@
 
 [lb]
 172.31.35.207 ansible_ssh_user='ubuntu'
-=======
-13.38.119.11 ansible_ssh_user='ec2-user'
 
-[webservers]
-35.180.47.175 ansible_ssh_user='ec2-user'
-35.180.186.39 ansible_ssh_user='ec2-user'
-
-[db]
-13.39.79.79 ansible_ssh_user='ec2-user' 
-
-[lb]
-35.181.152.189 ansible_ssh_user='ubuntu'
->>>>>>> main
 
