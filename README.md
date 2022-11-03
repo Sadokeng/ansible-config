@@ -8,4 +8,4 @@ check if it's ok now
 still waiting for the job
 
 # Copy artifacts on another target
-set to avoid server to be full
+set to avoid server to be full with artifacts
