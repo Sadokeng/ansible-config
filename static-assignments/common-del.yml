@@ -16,7 +16,7 @@
   become: yes
   become_user: root
   tasks:
-    name: delete wireshark
+  - name: delete wireshark
     apt:
       name: wireshark-qt
       state: absent
