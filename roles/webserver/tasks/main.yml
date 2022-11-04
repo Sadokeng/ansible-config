@@ -15,7 +15,7 @@
 
 - name: clone a repo
   become: true
-  ansible.builtin.yum:
+  ansible.builtin.git:
     repo: https://github.com/Sadokeng/tooling.git
     dest: /var/www/html
     force: yes
